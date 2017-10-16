@@ -15,8 +15,8 @@ Tag | Keterangan
 `<figure>` | Menentukan konten mandiri, seperti ilustrasi, diagram, foto, daftar kode, dll.
 `<footer>` | Mendefinisikan footer untuk dokumen atau bagian
 `<header>` | Menentukan header untuk dokumen atau bagian
-<main> | Menentukan konten utama dokumen
-<mark> | Mendefinisikan teks yang ditandai / disorot
+`<main>` | Menentukan konten utama dokumen
+`<mark>` | Mendefinisikan teks yang ditandai / disorot
 `<nav>` | Mendefinisikan tautan navigasi
 `<section>` | Mendefinisikan sebuah bagian dalam sebuah dokumen
 `<summary>` | Mendefinisikan heading yang terlihat untuk elemen `<details>`
