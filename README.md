@@ -5,7 +5,7 @@ Manusia bisa memahami suatu dokumen dengan adanya tanda baca, atau formatting (s
 
 Contohnya : penggunaan tag < em > lebih semantik jika diterapkan pada kata/teks yang membutuhkan suatu penekanan khusus daripada menggunakan tag < i > dan ditutup dengan tag < /i > yang hanya berfungsi menampilkan teks menjadi miring saja.
 
-# Beberapa semantic tag yang dibawa oleh HTML5 adalah sebagai berikut:
+# Beberapa tag Semantik yang dibawa oleh HTML5 adalah sebagai berikut:
 
 * < article > : Mendefinisikan sebuah artikel
 * < aside > : Mendefinisikan konten selain konten halaman
