@@ -31,5 +31,5 @@ Sebagian besar dari semantic tag tersebut digunakan untuk membuat struktur halam
 # Referensi
 * [Semantik HTML](http://www.webhozz.com/blog/semantik-html/)
 * [HTML5 Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
-* [Pengertian Semantic tag pada HTML5] (http://www.duniailkom.com/tutorial-belajar-html5-pengertian-semantic-tag-pada-html5/)
-* [Semantik Markup HTML5] (https://mkhuda.com/teknologi/semantik-markup-html5/)
+* [Pengertian Semantic tag pada HTML5](http://www.duniailkom.com/tutorial-belajar-html5-pengertian-semantic-tag-pada-html5/)
+* [Semantik Markup HTML5](https://mkhuda.com/teknologi/semantik-markup-html5/)
