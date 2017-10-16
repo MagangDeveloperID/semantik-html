@@ -35,7 +35,7 @@ Aside | Konten penting yang diberi tanda kutip
 Footer | Footer halaman web
 
 # Contoh gambar penggunaan Semantik HTML
-[![document-outline-example.jpg](https://s1.postimg.org/9s1vrmx0sv/document-outline-example.jpg)](https://postimg.org/image/6j2ruz9j63/)
+![document-outline-example.jpg](https://s1.postimg.org/9s1vrmx0sv/document-outline-example.jpg)
 
 # Referensi
 * [Semantik HTML](http://www.webhozz.com/blog/semantik-html/)
