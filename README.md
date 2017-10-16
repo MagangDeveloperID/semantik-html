@@ -31,6 +31,9 @@ Sebagian besar dari semantic tag tersebut digunakan untuk membuat struktur halam
 5. Aside : Konten penting yang diberi tanda kutip
 6. Footer : Footer halaman web
 
+# Contoh gambar penggunaan Semantik HTML
+[![document-outline-example.jpg](https://s1.postimg.org/9s1vrmx0sv/document-outline-example.jpg)](https://postimg.org/image/6j2ruz9j63/)
+
 # Referensi
 * [Semantik HTML](http://www.webhozz.com/blog/semantik-html/)
 * [HTML5 Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
