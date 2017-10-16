@@ -5,24 +5,23 @@ Manusia bisa memahami suatu dokumen dengan adanya tanda baca, atau formatting (s
 
 # Beberapa semantic tag yang dibawa oleh HTML5 adalah sebagai berikut:
 
-* <article>
-* <aside>
-* <figcaption>
-* <figure>
-* <footer>
-* <header>
-* <main>
-* <mark>
-* <nav>
-* <section>
-* <summary>
-* <time>
+* < article >
+* < aside >
+* < figcaption >
+* < figure >
+* < footer >
+* < header >
+* < main >
+* < mark >
+* < nav >
+* < section >
+* < summary >
+* < time >
 
 # Semantik Markup HTML5
-No | Bagian Elemen | Keterangan
-1  | Header        | Isi konten header dari halaman
-2  | Nav           | Alat bantu navigasi web atau menu web
-3  | Section	   | Bagian khusus halaman web
-4  | Article	   | Konten utama artikel halaman web
-5  | Aside	       |Konten penting yang diberi tanda kutip
-6  | Footer	       |Footer halaman web
+1. Header : Isi konten header dari halaman
+2. Nav : Alat bantu navigasi web atau menu web
+3. Section : Bagian khusus halaman web
+4. Article : Konten utama artikel halaman web
+5. Aside : Konten penting yang diberi tanda kutip
+6. Footer : Footer halaman web
