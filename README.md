@@ -7,7 +7,7 @@ Contohnya : penggunaan tag `<em>` lebih semantik jika diterapkan pada kata/teks 
 
 # Beberapa tag Semantik yang dibawa oleh HTML5 adalah sebagai berikut:
 Tag | Keterangan
------ | ---------
+--- | ------
 `<article>` |  Mendefinisikan sebuah artikel
 `<aside>` | Mendefinisikan konten selain konten halaman
 `<details>` | Mendefinisikan rincian tambahan yang dapat dilihat atau disembunyikan pengguna
