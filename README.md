@@ -27,3 +27,7 @@ Sebagian besar dari semantic tag tersebut digunakan untuk membuat struktur halam
 4. Article : Konten utama artikel halaman web
 5. Aside : Konten penting yang diberi tanda kutip
 6. Footer : Footer halaman web
+
+# Referensi
+* [Semantik HTML](http://www.webhozz.com/blog/semantik-html/)
+* [HTML5 Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
