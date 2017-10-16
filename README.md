@@ -6,22 +6,23 @@ Manusia bisa memahami suatu dokumen dengan adanya tanda baca, atau formatting (s
 Contohnya : penggunaan tag < em > lebih semantik jika diterapkan pada kata/teks yang membutuhkan suatu penekanan khusus daripada menggunakan tag < i > dan ditutup dengan tag < /i > yang hanya berfungsi menampilkan teks menjadi miring saja.
 
 # Beberapa tag Semantik yang dibawa oleh HTML5 adalah sebagai berikut:
+Tag | Keterangan
+----- | ---------
+< article > |  Mendefinisikan sebuah artikel
+< aside > | Mendefinisikan konten selain konten halaman
+< details > | Mendefinisikan rincian tambahan yang dapat dilihat atau disembunyikan pengguna
+< figcaption > | Mendefinisikan sebuah caption untuk elemen < figure >
+< figure > | Menentukan konten mandiri, seperti ilustrasi, diagram, foto, daftar kode, dll.
+< footer > | Mendefinisikan footer untuk dokumen atau bagian
+< header > | Menentukan header untuk dokumen atau bagian
+< main > | Menentukan konten utama dokumen
+< mark > | Mendefinisikan teks yang ditandai / disorot
+< nav > | Mendefinisikan tautan navigasi
+< section > | Mendefinisikan sebuah bagian dalam sebuah dokumen
+< summary > | Mendefinisikan heading yang terlihat untuk elemen < details >
+< time > | Mendefinisikan tanggal / waktu
 
-* < article > : Mendefinisikan sebuah artikel
-* < aside > : Mendefinisikan konten selain konten halaman
-* < details > : Mendefinisikan rincian tambahan yang dapat dilihat atau disembunyikan pengguna
-* < figcaption > : Mendefinisikan sebuah caption untuk elemen < figure >
-* < figure > : Menentukan konten mandiri, seperti ilustrasi, diagram, foto, daftar kode, dll.
-* < footer > : Mendefinisikan footer untuk dokumen atau bagian
-* < header > : Menentukan header untuk dokumen atau bagian
-* < main > : Menentukan konten utama dokumen
-* < mark > : Mendefinisikan teks yang ditandai / disorot
-* < nav > : Mendefinisikan tautan navigasi
-* < section > : Mendefinisikan sebuah bagian dalam sebuah dokumen
-* < summary > : Mendefinisikan heading yang terlihat untuk elemen < details >
-* < time > : Mendefinisikan tanggal / waktu
 
-Sebagian besar dari semantic tag tersebut digunakan untuk membuat struktur halaman.
 
 # Semantik Markup HTML5 :
 Tag | Keterangan
