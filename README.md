@@ -17,8 +17,9 @@ Manusia bisa memahami suatu dokumen dengan adanya tanda baca, atau formatting (s
 * < section >
 * < summary >
 * < time >
+Sebagian besar dari semantic tag tersebut digunakan untuk membuat struktur halaman.
 
-# Semantik Markup HTML5
+# Semantik Markup HTML5 :
 1. Header : Isi konten header dari halaman
 2. Nav : Alat bantu navigasi web atau menu web
 3. Section : Bagian khusus halaman web
